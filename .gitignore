@@ -1,0 +1,7 @@
+# Editor/OS junk
+.DS_Store
+*.swp
+__pycache__/
+
+# Personal, machine-local state never belongs here (it lives in ~/.local/share/nvim)
+nvim/.luarc.json
